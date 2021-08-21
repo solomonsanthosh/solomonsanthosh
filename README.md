@@ -1,4 +1,4 @@
-<a href="#"><img src="https://img.icons8.com/ios/64/000000/external-developer-coding-kiranshastry-lineal-kiranshastry.png"/></a>
+<a href="#"><img width="100%" height="auto" height="175px" src="https://img.icons8.com/ios/64/000000/external-developer-coding-kiranshastry-lineal-kiranshastry.png" /></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Solomon Santhosh</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
