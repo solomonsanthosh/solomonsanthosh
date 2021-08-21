@@ -1,4 +1,6 @@
-<a href="#"><img width="100%" height="auto" src="https://wallpaperaccess.com/full/1109805.jpg" height="175px"/></a>
+<!-- <a href="#"><img width="100%" height="auto" src="https://wallpaperaccess.com/full/1109805.jpg" height="175px"/></a> -->
+<a href="#"><img width="100%" height="auto" src="https://apptha-blog.s3.amazonaws.com/blog/wp-content/uploads/2019/05/Hire-full-stack-developer-800x288.jpg" height="5px"/></a>
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Solomon Santhosh</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
