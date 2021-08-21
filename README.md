@@ -16,7 +16,7 @@
 - 📫 How to reach me **solosanty2064@gmail.com**
 
 - ⚡ Fun fact **One of my favorite things to do is…play games.**
-- 
+
 <br/>
 
 ## 🚀 Languages and Tools:
