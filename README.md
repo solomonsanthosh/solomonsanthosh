@@ -33,7 +33,7 @@ I'm a Full Stack Developer | UI/UX Designer<br><br>I'm actively working on a pro
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 
-![](https://visitcount.itsvg.in/api?id=solomonsanthosh&icon=0&color=5)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=solomonsanthosh&icon=0&color=5)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
