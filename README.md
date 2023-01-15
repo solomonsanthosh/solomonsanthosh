@@ -23,6 +23,7 @@ I'm a Full Stack Developer | UI/UX Designer<br><br>I'm actively working on an An
 
 
 <br/>
+<br/>
 
 
 <picture>
@@ -36,6 +37,7 @@ I'm a Full Stack Developer | UI/UX Designer<br><br>I'm actively working on an An
 />
 <img src="https://github-readme-stats.vercel.app/api?username=solomonsanthosh&show_icons=true" />
 </picture>
+<br/>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=solomonsanthosh&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
