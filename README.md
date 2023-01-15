@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-I'm a Full Stack Developer | UI/UX Designer<br><br>I'm actively working on an Angular project that I can't wait to share with you.<br><br>I'm keen to take on new tchnology<br>How to reach me **solomonsanthosh2064@gmail.com**
+I'm a Full Stack Developer | UI/UX Designer<br><br>I'm actively working on an Angular project that I can't wait to share with you.<br><br>I'm keen to take on new tchnology<br><br>How to reach me **solomonsanthosh2064@gmail.com**
 
 
 ## 🌐 Socials:
@@ -22,7 +22,6 @@ I'm a Full Stack Developer | UI/UX Designer<br><br>I'm actively working on an An
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
-<br/>
 <br/>
 
 
