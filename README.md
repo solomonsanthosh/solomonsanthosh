@@ -6,7 +6,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **MERN Stack.**
+- 🌱 
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -18,7 +18,7 @@
 
 
 # 💫 About Me:
-I'm a Full Stack Developer | UI/UX Designer<br>I'm actively working on an Angular project that I can't wait to share with you.<br>I'm keen to take on new tchnology
+I'm a Full Stack Developer | UI/UX Designer<br>I'm actively working on an Angular project that I can't wait to share with you.<br>I'm keen to take on new tchnology<br>How to reach me **solomonsanthosh2064@gmail.com**
 
 
 ## 🌐 Socials:
