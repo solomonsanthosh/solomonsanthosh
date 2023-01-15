@@ -3,22 +3,8 @@
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 
-## 🙋‍♂️ About Me
-
-
-- 🌱 
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
-
-- 📫 How to reach me **solosanty2064@gmail.com**
-
-- ⚡ Fun fact **One of my favorite things to do is…play games.**
-
-
 # 💫 About Me:
-I'm a Full Stack Developer | UI/UX Designer<br>I'm actively working on an Angular project that I can't wait to share with you.<br>I'm keen to take on new tchnology<br>How to reach me **solomonsanthosh2064@gmail.com**
+I'm a Full Stack Developer | UI/UX Designer<br><br>I'm actively working on an Angular project that I can't wait to share with you.<br><br>I'm keen to take on new tchnology<br>How to reach me **solomonsanthosh2064@gmail.com**
 
 
 ## 🌐 Socials:
