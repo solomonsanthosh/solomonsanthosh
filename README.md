@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-I'm a Full Stack Developer | UI/UX Designer<br><br>I'm actively working on a project called Petle that I can't wait to share with you.<br><br>I'm keen to take on new tchnology<br><br>How to reach me **solomonsanthosh2064@gmail.com**
+I'm a Full Stack Developer | UI/UX Designer<br><br>I'm actively working on a project called **Petle** that I can't wait to share with you.<br><br>I'm keen to take on new tchnology<br><br>How to reach me **solomonsanthosh2064@gmail.com**
 
 
 ## 🌐 Socials:
