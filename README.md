@@ -23,12 +23,7 @@ I'm a Full Stack Developer | UI/UX Designer<br><br>I'm actively working on an An
 
 
 <br/>
-<br/>
 
-<a href="https://github.com/solomonsanthosh/github-readme-activity-graph"><img alt="solomonsanthosh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=solomonsanthosh&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
 
 <picture>
 <source 
@@ -54,18 +49,6 @@ I'm a Full Stack Developer | UI/UX Designer<br><br>I'm actively working on an An
 
 
 
-
-  
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/solomon-santhosh-i-it-4854a3212"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.facebook.com/profile.php?id=100029976981387"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
-<a href = "https://www.instagram.com/solomon_santy/?hl=en"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-
-</p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
