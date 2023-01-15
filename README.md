@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Solomon Santhosh</h1>
+<h1 align="center">Hello <img src="https://icons8.com/icon/Y4oVsnp75qny/hand-peace" width="30px">, I'm Solomon Santhosh</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 
