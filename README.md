@@ -39,11 +39,9 @@ I'm a Full Stack Developer | UI/UX Designer<br><br>I'm actively working on an An
 </picture>
 <br/>
 ## 🏆 GitHub Trophies
-<br/>
 ![](https://github-profile-trophy.vercel.app/?username=solomonsanthosh&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-<br/>
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
@@ -59,3 +57,8 @@ I'm a Full Stack Developer | UI/UX Designer<br><br>I'm actively working on an An
     <img src="https://komarev.com/ghpvc/?username=solomonsanthosh">
 </a>
 <a href="https://github.com/solomonsanthosh?tab=followers"><img src="https://img.shields.io/github/followers/solomonsanthosh?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
+
+
+
