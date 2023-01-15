@@ -27,9 +27,11 @@ I'm a Full Stack Developer | UI/UX Designer<br><br>I'm actively working on a pro
 
 
 ## 🏆 GitHub Trophies
+<br>
 ![](https://github-profile-trophy.vercel.app/?username=solomonsanthosh&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
+<br>
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
