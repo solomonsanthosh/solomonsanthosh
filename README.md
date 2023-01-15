@@ -16,6 +16,7 @@ I'm a Full Stack Developer | UI/UX Designer<br><br>I'm actively working on a pro
 # 📊 GitHub Stats:
 
 <br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=solomonsanthosh&theme=radical&hide_border=true)<br/>
     <a href="https://github.com/solomonsanthosh/github-readme-stats"><img alt="solomonsanthosh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=solomonsanthosh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/solomonsanthosh/github-readme-stats"><img alt="solomonsanthosh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solomonsanthosh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
@@ -50,6 +51,11 @@ I'm a Full Stack Developer | UI/UX Designer<br><br>I'm actively working on a pro
 <a href="https://github.com/solomonsanthosh?tab=followers"><img src="https://img.shields.io/github/followers/solomonsanthosh?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
+
+---
+<!-- [![](https://visitcount.itsvg.in/api?id=solomonsanthosh&icon=0&color=5)](https://visitcount.itsvg.in) -->
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
